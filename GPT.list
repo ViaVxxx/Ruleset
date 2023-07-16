@@ -1,4 +1,4 @@
 # GPT
-host-suffix, bard.google.com, GPT
-host-suffix, claude.ai, GPT
-host-suffix, openai.com, GPT
+DOMAIN-SUFFIX, bard.google.com, GPT
+DOMAIN-SUFFIX, claude.ai, GPT
+DOMAIN-SUFFIX, openai.com, GPT
