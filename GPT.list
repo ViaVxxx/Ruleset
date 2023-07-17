@@ -1,6 +1,16 @@
 # GPT
 DOMAIN-SUFFIX, bard.google.com, GPT
+DOMAIN-KEYWORD,bard,GPT
+
 DOMAIN-SUFFIX, claude.ai, GPT
+DOMAIN-SUFFIX,anthropic.com, GPT
+
+DOMAIN-SUFFIX,openai.com,GPT
 HOST-KEYWORD, openai, GPT
 DOMAIN-SUFFIX, identrust.com, GPT
 DOMAIN-SUFFIX, auth0.com, GPT
+
+#流媒体
+DOMAIN-SUFFIX,netflix.com,Netflix
+DOMAIN-SUFFIX,netflix.net,Netflix
+DOMAIN-KEYWORD,netflix,Netflix
