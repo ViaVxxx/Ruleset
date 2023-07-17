@@ -2,3 +2,6 @@
 DOMAIN-SUFFIX, bard.google.com, GPT
 DOMAIN-SUFFIX, claude.ai, GPT
 DOMAIN-SUFFIX, openai.com, GPT
+HOST-KEYWORD, openai, GPT
+DOMAIN-SUFFIX, identrust.com, GPT
+DOMAIN-SUFFIX, auth0.com, GPT
