@@ -1,12 +1,12 @@
 # > GPT
-DOMAIN-SUFFIX, bard.google.com, GPT
-DOMAIN-KEYWORD, bard
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-KEYWORD,bard
 
-DOMAIN-SUFFIX, claude.ai
-DOMAIN-SUFFIX, anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
 
-DOMAIN-SUFFIX, openai.com
-DOMAIN-KEYWORD, openai
-DOMAIN-KEYWORD, chatgpt
-DOMAIN-SUFFIX, identrust.com
-DOMAIN-SUFFIX, auth0.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,chatgpt
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,auth0.com
