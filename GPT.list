@@ -9,3 +9,8 @@ DOMAIN-SUFFIX,openai.com,GPT
 HOST-KEYWORD, openai, GPT
 DOMAIN-SUFFIX, identrust.com, GPT
 DOMAIN-SUFFIX, auth0.com, GPT
+
+# Netflix
+DOMAIN-SUFFIX,netflix.com,Netflix
+DOMAIN-SUFFIX,netflix.net,Netflix
+DOMAIN-KEYWORD,netflix,Netflix
