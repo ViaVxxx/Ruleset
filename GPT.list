@@ -1,6 +1,6 @@
 # > GPT
-DOMAIN-SUFFIX,bard.google.com,GPT
-DOMAIN-KEYWORD,bard,GPT
+DOMAIN-SUFFIX,gemini.google.com,GPT
+DOMAIN-KEYWORD,gemini,GPT
 
 DOMAIN-SUFFIX,claude.ai,GPT
 DOMAIN-SUFFIX,anthropic.com,GPT
